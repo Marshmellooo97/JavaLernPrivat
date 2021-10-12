@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xpath.internal.operations.And"/>
+    <fullyQualifiedTypeName name="com.sun.swing.internal.plaf.basic.resources.basic"/>
+    <fullyQualifiedTypeName name="java.util.Locale.IsoCountryCode"/>
+    <fullyQualifiedTypeName name="java.nio.channels.NonWritableChannelException"/>
+    <fullyQualifiedTypeName name="Kuh"/>
+    <fullyQualifiedTypeName name="Hund"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="BMW"/>
+    <fullyQualifiedTypeName name="Audi"/>
+    <fullyQualifiedTypeName name="Computer"/>
+    <fullyQualifiedTypeName name="Reifen"/>
+    <fullyQualifiedTypeName name="Auto"/>
+    <fullyQualifiedTypeName name="Held"/>
+    <fullyQualifiedTypeName name="Google"/>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="Tiere"/>
+    <fullyQualifiedTypeName name="ITelefon"/>
+    <fullyQualifiedTypeName name="Arraylist"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.NEW"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="Adresse"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.sun.tools.sjavac.comp.dependencies.PublicApiCollector"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.runtime.StaticBaseConstructor"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="Übung.Smatphone"/>
+    <fullyQualifiedTypeName name="Übung.Kontakt"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.TreeSet"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+</qualifiedTypeNameHistroy>

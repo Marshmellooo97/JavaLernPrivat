@@ -1,0 +1,13 @@
+
+public class Computer {
+
+	String cpu;
+	Mainboard mainboard;
+	
+	public Computer() {
+		
+	}
+	
+	
+	
+}
