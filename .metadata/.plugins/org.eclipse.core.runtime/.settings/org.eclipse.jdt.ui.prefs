@@ -18,5 +18,6 @@ eclipse.preferences.version=1
 markOccurrences=false
 org.eclipse.jdt.ui.formatterprofiles.version=21
 spelling_locale_initialized=true
+typefilter_migrated_2=true
 useAnnotationsPrefPage=true
 useQuickDiffPrefPage=true

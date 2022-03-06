@@ -1,3 +1,5 @@
+package Zusammenfassung;
+
 import java.util.*;
 
 class Person implements Comparable<Person> {
